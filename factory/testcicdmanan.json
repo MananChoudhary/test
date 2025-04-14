@@ -1,0 +1,9 @@
+{
+	"name": "testcicdmanan",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62900fbd-e46c-4db1-ab45-b80d472fe7e6",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
